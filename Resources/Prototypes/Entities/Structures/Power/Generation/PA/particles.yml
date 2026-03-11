@@ -79,5 +79,5 @@
   - type: TimedDespawn
     lifetime: 0.6
   - type: SinguloFood
-    energy: -50 #omuHypo edit
-    energyFactor: 0.9 #omuHypo edit
+    energy: -50 # Hypothesis
+    energyFactor: 0.9 # Hypothesis
